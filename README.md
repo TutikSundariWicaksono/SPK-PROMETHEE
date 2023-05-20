@@ -29,6 +29,3 @@ Dalam Promethee disajikan enam fungsi preferensi kriteria, yaitu:
 4. Kriteria Level
 5. Kriteria dengan Preferensi Linier dan Area yang Tidak Berbeda
 6. dan Kriteria Gaussian (Dalam pengembangan lebih lanjut)
-
-## License
-Made with :heart: from [Stevanus Christian](https://github.com/Stevanus-Christian) :laughing:
