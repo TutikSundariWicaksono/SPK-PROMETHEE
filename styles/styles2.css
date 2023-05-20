@@ -1,0 +1,41 @@
+body { margin:0; padding:0; width:100%; color:#5f5f5f; font:normal 12px/1.8em Arial, Helvetica, sans-serif;}
+
+.cek table {
+	}
+	
+.cek table tr {
+	background-color:#DDEEFF;
+	margin:20px 20px 0 20px;
+	}
+	
+.cek table tr th{
+	border-bottom:1px solid #75BAFF;
+	background-color:#9FCFFF;
+	padding:5px 5px 5px 10px;
+	font-weight:bold;
+	color:#004080;
+	font-size:12px;
+	text-align:left;
+	}
+
+.cek table tr td{
+	border-bottom:1px dotted #91C8FF;
+	padding:4px 10px;
+	vertical-align:middle;
+	}
+	
+.tombol {
+	padding:5px;
+	width:65px;
+	color:#FFFFFF;
+	background-color:#0099CC;
+	-moz-border-radius:2px; -webkit-border-radius:2px;
+	border:1px solid #0066FF;
+	cursor:pointer;
+	}
+	
+.tombol:hover {
+	color:#FFFFFF;
+	background-color:#0482FF;
+	border:1px solid #0066FF;
+	}
